@@ -1,0 +1,10 @@
+  ID : 001
+  Summary : The button 'Login page' is displaced after clicking on the page
+  Expected_result : The button 'Login page' is located on the page according to mockups
+  Actually_result : The button 'Login page' is displaced after clicking on the page 
+  Step_to_reprodus : 1. Open the login page 2. Click on the page jn any place 
+  Severity : Trivial
+  Priority : Low 
+  Environmen" : Windows 10 x64 Google Chrome v.96.0.4664.93  64 bit 
+  Reporter : Galina 
+  Attachments : -
